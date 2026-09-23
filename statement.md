@@ -9,7 +9,11 @@ The goal of this project is to build a Rock-Paper-Scissors game in Python. The s
 - Session history tracking(stats.py)
 - Core application execution and menu routing(main.py)
 
-  ## 3. High-Level Features
+## 3. Target Users
+- **Students and Beginners:** Learning Python control flow, modular architecture, and basic python practices.
+- **Casual Terminal Users:** Looking for a quick, interactive game playable directly inside any standard terminal environment.
+  
+ ## 4. High-Level Features
 - **Tournament Mode:** A Best-of-3 match system that determines an overall winner.
 - **Input Sanitization:** Dictionary-based validation that handles accidental whitespace and case differences, preventing runtime crashes.
 - **Computer as Opponent:** Pure random move selection simulating an impartial opponent.
